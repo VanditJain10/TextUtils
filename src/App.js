@@ -54,7 +54,7 @@ function App() {
 
     <div className="container my-3">
 
-        {/* <Routes>
+        {/* <Routes>rgfrege
           <Route exact path="/about" element={<About/>}/>
           <Route exact path="/" element={}/>
         </Routes> */}
